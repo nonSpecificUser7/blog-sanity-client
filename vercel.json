@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "route": [{
+            "handle": "filesystem"
+        },
+        {
+            "src": "/.*",
+            "dest": "/index.html"
+        }
+    ]
+}
